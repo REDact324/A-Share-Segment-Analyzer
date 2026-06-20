@@ -81,4 +81,10 @@ Each JSON segment report includes fields such as:
 - `turn_k`, `initial_cross`, `refresh_status`
 - `decision_status`
 
+## Catalog
+
+- [x] Segment identify
+- [ ] Segment trend analysis
+- [ ] Buying and selling points
+
 For complete field explanations and rule details, use the Chinese README: [README.zh-CN.md](README.zh-CN.md).
