@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build-*/
+build/
+dist/
+*.app/
+*.pkg
+*.dmg
+*.zip
+data/cache/
+out/
+
+# Packaging-only files
+PACKAGING.md
+requirements-build.txt
+gui_app.py
+scripts/
